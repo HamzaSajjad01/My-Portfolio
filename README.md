@@ -4,7 +4,7 @@ This is my personal portfolio website built using **React**, **Tailwind CSS**, a
 
 ## 📸 Live Preview
 
-[Visit Website](https://your-live-link.com)
+[Visit Website](https://hamza-sajjad.netlify.app)
 
 ## 🚀 Features
 
